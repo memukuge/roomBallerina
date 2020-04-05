@@ -1,0 +1,17 @@
+o4
+g1
+r8d8e4g4e8g8 
+a4.b4.g4 a4.b4.g4
+>d1
+r8c8<b4>d4c8<b8
+g1r1
+g8r8g8r8g4r8>c8
+r8c8r8c8c2<
+g8r8g8r8g4r8>c8
+r8c8r8c8c2<
+a8r8a8r8a4r8>d8
+r8d8r8d8d2<
+a8r8a8r8a4r8>d8
+r8d8r8d8d2<
+g1
+r2r2r2r2r2r2
